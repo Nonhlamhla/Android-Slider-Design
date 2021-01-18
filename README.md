@@ -1,6 +1,6 @@
 # Simple Android Slider Design
 
-This User Interface project is designed using Adobe XD, with images from https://unsplash.com/.
+This User Interface & User Experience (UI/UX) project is designed using Adobe XD, with images from https://unsplash.com/.
 
 ![xd](https://user-images.githubusercontent.com/27202690/104726442-427bdc80-573c-11eb-92ce-4c50e654d427.PNG)
 
